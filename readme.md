@@ -1,8 +1,11 @@
 ## Hello, my name is Vedant Ray.
 
 I am a freshman college student majoring in Computer Science Engineering. I aspire to be a video game director and wish to create cinematic experiences that tell an emotional story. I am also learning web development as a hobby when I'm too frustrated with minesweeper.
-
+<details>
+<summary> 
+  
 ## Some notable achievements:
+</summary>
 
 ### Opera GX Mod: 25000+ Downloads
 
@@ -17,3 +20,4 @@ In 11th grade the Physics teacher / Vice Principal at my school came to me with 
 [Link](https://vdnry.github.io/KhetGuru)
 
 PS- This links the accolades page of the project.
+</details>
