@@ -14,6 +14,6 @@ When Opera GX first rolled out their mods feature I was quick to make a mod with
 
 In 11th grade the Physics teacher / Vice Principal at my school came to me with a project that would help farmers plan their harvests. Me and a schoolmate started work on the prototype for the software and we eventually scaled up to work on the hardware side of the project. It turned out to have a prolific run at competitions and exhibits, even having investor backing at one point. However, people eventually started to steal credit and mismanagement led to me taking the prototype private. Currently, the schoolmate I started with has taken responsibility of further work, with no updates.
 
-[Link](https://khetguru.vdnry.com)
+[Link](https://vdnry.github.io/KhetGuru)
 
 PS- This links the accolades page of the project.
