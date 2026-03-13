@@ -4,7 +4,7 @@ I am a freshman college student majoring in Computer Science Engineering. I aspi
 <details>
 <summary> 
   
-## Some notable achievements:
+## Some notable works I'm no longer maintaining:
 </summary>
 
 ### Opera GX Mod: 25000+ Downloads
