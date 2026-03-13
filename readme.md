@@ -1,6 +1,6 @@
 ## Hello, my name is Vedant Ray.
 
-I am a freshman college student majoring in Computer Science Engineering. I aspire to be a video game director and wish to create cinematic experiences that tell an emotional story. I am also learning web development as a hobby when I'm too frustrated with minesweeper.
+I am a freshman college student majoring in Computer Science Engineering. I aspire to be a video game director and wish to create cinematic experiences that tell emotional stories. I am also learning web development as a hobby when I'm too frustrated with minesweeper.
 <details>
 <summary> 
   
